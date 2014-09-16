@@ -1,7 +1,7 @@
 CenturyLink Data Container
 =====================
 
-This image is used for creating data containers within the [Panamax](https://panamax.io) application. Panamax leverages these containers for docker `--volumes-from` operations.
+This image is used for creating data containers within the [Panamax](http://panamax.io) application. Panamax leverages these containers for docker `--volumes-from` operations.
 
 Example usage - create the data container:
 
