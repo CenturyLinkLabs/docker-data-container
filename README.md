@@ -14,6 +14,10 @@ From this, another container can connect to the data container via the `--volume
 Running a docker inspect on `mysql1` shows the data container mounted from `datacontainer1`:
 
 ```
+$ docker inspect mysql1
+
+...
+
  },
     "Volumes": {
         "/dbdata": "/var/lib/docker/vfs/dir/da2641445e5b6d1fd45ece8c77756a51e0163269a5a8476bb989a296535330eb",
