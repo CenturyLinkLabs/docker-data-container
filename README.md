@@ -1,5 +1,6 @@
 CenturyLink Data Container
 =====================
+[![](https://badge.imagelayers.io/centurylink/data-container.svg)](https://imagelayers.io/?images=centurylink/data-container:latest 'Get your own badge on imagelayers.io')
 
 This image is used for creating data containers within the [Panamax](http://panamax.io) application. Panamax leverages these containers for docker `--volumes-from` operations.
 
