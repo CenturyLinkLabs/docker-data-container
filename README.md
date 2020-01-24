@@ -1,3 +1,7 @@
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 CenturyLink Data Container
 =====================
 [![](https://badge.imagelayers.io/centurylink/data-container.svg)](https://imagelayers.io/?images=centurylink/data-container:latest 'Get your own badge on imagelayers.io')
